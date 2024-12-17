@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "170873898477",
+    "project_id": "luminaraug",
+    "storage_bucket": "luminaraug.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170873898477:android:a7168a0ce94c129b21d3e4",
+        "android_client_info": {
+          "package_name": "com.example.fbgoogle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgvoiBoQ3LU14B8ps3NmGtTGiMV--fT_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
